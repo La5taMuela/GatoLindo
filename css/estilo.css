@@ -1,0 +1,17 @@
+html{
+    height: 100%;
+
+}
+body{
+    height: 100%;
+
+}
+.contenido{
+    height: 100%;
+    padding: 0;
+    background-color: #cccccc;
+    
+}
+.title{
+    text-align: center;
+}
